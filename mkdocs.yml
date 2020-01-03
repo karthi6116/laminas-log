@@ -13,3 +13,6 @@ nav:
 site_name: laminas-log
 site_description: 'Robust, composite logger with filtering, formatting, and PSR-3 support.'
 repo_url: 'https://github.com/laminas/laminas-log'
+extra:
+    project: Components
+    project_url: 'https://docs.laminas.dev'
